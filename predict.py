@@ -115,7 +115,7 @@ if __name__ == "__main__":
             frame = grabscreen.grab_screen()
             frame = cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)
             # resize画面大小（加速检测）
-            frame = cv2.resize(frame,(416,277))
+            frame = cv2.resize(frame,(600,400))
             # 转变成Image
             frame = Image.fromarray(np.uint8(frame))
             # 进行检测

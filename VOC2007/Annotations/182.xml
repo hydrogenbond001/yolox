@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>182.JPG</filename>
+	<path>C:\Users\PH1\Documents\GitHub\yolox\VOC2007\JPEGImages\182.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>45</ymin>
+			<xmax>190</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

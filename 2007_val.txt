@@ -1,37 +1,22 @@
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_1180.jpg 34,7,73,100,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_1200.jpg 31,12,67,100,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_1221.jpg 32,13,65,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_1241.jpg 37,13,73,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_1282.jpg 30,12,70,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_1324.jpg 31,13,69,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4080.jpg 20,14,65,100,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4121.jpg 33,24,76,92,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4131.jpg 24,14,74,94,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4204.jpg 24,15,75,91,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4256.jpg 29,23,63,89,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4277.jpg 28,18,75,95,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4288.jpg 22,26,77,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4318.jpg 22,18,69,97,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4405.jpg 28,9,75,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4605.jpg 18,13,64,100,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4646.jpg 27,18,76,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4676.jpg 26,6,81,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4736.jpg 17,10,61,92,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_4968.jpg 21,11,74,99,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5065.jpg 30,13,74,100,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5154.jpg 24,13,70,98,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5175.jpg 20,7,73,92,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5204.jpg 21,6,74,91,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5245.jpg 20,8,71,94,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5256.jpg 18,7,71,93,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5498.jpg 29,18,83,94,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5539.jpg 28,9,78,98,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5626.jpg 25,16,75,100,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5707.jpg 38,10,84,90,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5758.jpg 28,12,78,92,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5859.jpg 23,12,74,98,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5889.jpg 21,8,72,94,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5919.jpg 22,17,72,94,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5920.jpg 26,14,76,97,1
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5972.jpg 22,16,69,93,0
-C:\Users\PH1\Downloads\CoordAttention_YOLOX_Pytorch-main\CoordAttention_YOLOX_Pytorch-main/VOC2007/JPEGImages/IMG_5973.jpg 26,18,71,97,1
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/016.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/030.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/063.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/067.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/072.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/079.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/085.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/087.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/156.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/165.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/173.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/182.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/201.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/219.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/226.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/232.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/241.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/243.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/265.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/266.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/268.jpg
+C:\Users\PH1\Documents\GitHub\yolox/VOC2007/JPEGImages/270.jpg

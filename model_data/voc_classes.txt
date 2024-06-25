@@ -1,2 +1,2 @@
-hand1
-hand2
+up
+down

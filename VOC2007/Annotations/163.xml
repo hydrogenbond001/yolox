@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>163.JPG</filename>
+	<path>C:\Users\PH1\Documents\GitHub\yolox\VOC2007\JPEGImages\163.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>29</ymin>
+			<xmax>183</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>
